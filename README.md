@@ -75,7 +75,7 @@
   <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
 </summary>
 <br>
-<p align="left">
+<p align="center">
   <a href="https://github.com/py3-coder">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=py3-coder&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
   <a href="https://github.com/py3-coder">
@@ -85,7 +85,7 @@
 <br>
 
  ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=py3-coder&theme=react-dark&hide_border=true&area=true) 
-  
+
  ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/py3-coder/py3-coder/blob/main/github-user-contribution.svg)
   
   <br/>
