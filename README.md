@@ -7,7 +7,7 @@
 
 
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Golang Backend Development**
-- 🚗  I’m currently building **EV Charging Softwares** 
+- 🚗  I’m currently building **EV Charging Softwares & Fleet Management** 
 - 🌱 I’m currently learning **Neural Networks and Reinforcement learning**
 - 👯 I’m looking to collaborate on **Data Science & Blockchain Projects**
 - 👨‍💻 All of my projects are available at [Project](https://drive.google.com/file/d/1q68Q0jqITb1uSYWsMxoSW6Me0ykBvt29/view?usp=drive_link)
