@@ -6,12 +6,11 @@
 <br/>
 
 
-- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Golang Backend Development**
-- 🚗  I’m currently building **EV Charging Softwares & Fleet Management** 
+- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 as **Backend Development**
 - 🌱 I’m currently learning **Neural Networks and Reinforcement learning**
 - 👯 I’m looking to collaborate on **Data Science & Blockchain Projects**
 - 👨‍💻 All of my projects are available at [Project](https://drive.google.com/file/d/1q68Q0jqITb1uSYWsMxoSW6Me0ykBvt29/view?usp=drive_link)
-- 📝 I write articles on [Medium](https://medium.com/p/225542503a5d)
+- 📝 I write articles on [Medium](https://medium.com/@sau29gupta)
 - 💬 Ask me about **Machine Learning & DL (Basics)**
 - 📫 How to reach me **sau29gupta@gmail.com**
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1q68Q0jqITb1uSYWsMxoSW6Me0ykBvt29/view?usp=drive_link)
