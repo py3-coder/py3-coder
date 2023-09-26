@@ -9,11 +9,11 @@
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 as **Backend Developer**
 - 🌱 I’m currently learning **Neural Networks and Reinforcement learning**
 - 👯 I’m looking to collaborate on **Data Science & Blockchain Projects**
-- 👨‍💻 All of my projects are available at [Project](https://drive.google.com/file/d/1q68Q0jqITb1uSYWsMxoSW6Me0ykBvt29/view?usp=drive_link)
+- 👨‍💻 All of my projects are available at [Here]()
 - 📝 I write articles on [Medium](https://medium.com/@sau29gupta)
 - 💬 Ask me about **Machine Learning & DL (Basics)**
 - 📫 How to reach me **sau29gupta@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1q68Q0jqITb1uSYWsMxoSW6Me0ykBvt29/view?usp=drive_link)
+- 📄 Know about my experiences 
 - ⚡ Fun fact **THINK THINK THINK**
 
 - <p align="left"> <a href="https://twitter.com/py3_coder" target="blank"><img src="https://img.shields.io/twitter/follow/py3_coder?logo=twitter&style=for-the-badge" alt="py3_coder" /></a> </p>
