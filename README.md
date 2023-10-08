@@ -106,13 +106,13 @@
   <a href="https://kaggle.com/codersaurabh" target="blank">
     <code><img height="60" width="60" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="codersaurabh"/></code>
   </a>
-  <a href="https://www.leetcode.com" target="blank">
+<!--   <a href="https://www.leetcode.com" target="blank">
     <code><img height="60" width="60" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"/></code>
   </a>
-  
-   <a href="https://instagram.com/saurabh_gupta.29" target="blank">
+   -->
+<!--    <a href="https://instagram.com/saurabh_gupta.29" target="blank">
     <code><img height="60" width="60" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"/></code>
-  </a>
+  </a> -->
   
    <a href="https://medium.com/@sau29gupta" target="blank">
     <code><img height="60" width="60" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"/></code>
