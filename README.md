@@ -106,7 +106,7 @@
   <a href="https://kaggle.com/codersaurabh" target="blank">
     <code><img height="60" width="60" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="codersaurabh"/></code>
   </a>
-  <a href="https://www.leetcode.com/py3-coder" target="blank">
+  <a href="https://www.leetcode.com" target="blank">
     <code><img height="60" width="60" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"/></code>
   </a>
   
