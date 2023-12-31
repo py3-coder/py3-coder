@@ -16,7 +16,7 @@
 - 📄 Know about my experiences 
 - ⚡ Fun fact **THINK THINK THINK**
 
-- <p align="left"> <a href="https://twitter.com/py3_coder" target="blank"><img src="https://img.shields.io/twitter/follow/py3_coder?logo=twitter&style=for-the-badge" alt="py3_coder" /></a> </p>
+- <p align="left"> <a href="https://twitter.com/saurabh_gupta29" target="blank"><img src="https://img.shields.io/twitter/follow/saurabh_gupta29?logo=twitter&style=for-the-badge" alt="saurabh_gupta29" /></a> </p>
 
 <br/>
 <br/>
@@ -97,7 +97,7 @@
 
 <p align="center">
   <br>
-  <a href="https://twitter.com/py3_coder" target="blank">
+  <a href="https://twitter.com/saurabh_gupta29" target="blank">
     <code><img height="60" width="60" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"/></code>
   </a>
   <a href="https://linkedin.com/in/py3-coder" target="blank">
