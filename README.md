@@ -7,7 +7,7 @@
 
 
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 as **Backend Developer**
-- 🌱 I’m currently learning **Neural Networks and Reinforcement learning**
+- 🌱 I’m currently learning **System Design (HLD&LLD)**
 - 👯 I’m looking to collaborate on **Data Science & Blockchain Projects**
 - 👨‍💻 All of my projects are available at [Here]()
 - 📝 I write articles on [Medium](https://medium.com/@sau29gupta)
