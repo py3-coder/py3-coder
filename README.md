@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **System Design (HLD&LLD)**
 - 👯 I’m looking to collaborate on **Data Science & Blockchain Projects**
 - 👨‍💻 All of my projects are available at [Here]()
-- 📝 I write articles on [Medium](https://medium.com/@sau29gupta)
+- 📝 I write articles on [Medium](guptasaurabh2929@gmail.com)
 - 💬 Ask me about **Machine Learning & DL (Basics)**
 - 📫 How to reach me **sau29gupta@gmail.com**
 - 📄 Know about my experiences 
