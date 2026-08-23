@@ -13,7 +13,7 @@
 - 🔭 Currently building **event-driven, distributed backend systems** as a Software Engineer
 - 🌱 Currently deepening my knowledge of **System Design** and **Neural Networks**
 - 👯 Open to collaborating on **backend / data science** projects
-- 💬 Ask me about **Java, Spring Boot, Kafka, or distributed systems**
+- 💬 Ask me about **Java, Golang , Spring Boot, Kafka, or distributed systems**
 - ⚡ Fun fact: *think twice before you code, once you write it, others have to read it*
 
 <br/>
