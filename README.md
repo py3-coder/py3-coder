@@ -1,42 +1,51 @@
-<h1 align="center">Hi 👋, I'm Saurabh Kumar</h1>
-<h3 align="center">Developer in Developing Phase</h3>
+<div align="center">
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=62F7F3&center=true&vCenter=true&width=460&lines=Hi+there%2C+I'm+Saurabh+%F0%9F%91%8B;Backend+Software+Engineer;Java+%7C+Go+%7C+Spring+Boot+%7C+Kafka;Always+learning%2C+always+building" alt="Typing SVG" />
+</a>
 
+</div>
 
-- 🔭 I’m currently working on **Tensorflow Object Detection and Yolo**
+<br/>
 
-- 🌱 I’m currently learning **Neural Networks and Reinforcement learning**
+### About Me
 
-- 👯 I’m looking to collaborate on **Data Science & Blockchain Projects**
+- 🔭 Currently building **event-driven, distributed backend systems** as a Software Engineer
+- 🌱 Currently deepening my knowledge of **System Design** and **Neural Networks**
+- 👯 Open to collaborating on **backend / data science** projects
+- 💬 Ask me about **Java, Golang , Spring Boot, Kafka, or distributed systems**
+- ⚡ Fun fact: *think twice before you code, once you write it, others have to read it*
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1RW6xZo3IqGd9-eZgZ6EMolF3oG8pdCEk/view?usp=sharing](https://drive.google.com/file/d/1RW6xZo3IqGd9-eZgZ6EMolF3oG8pdCEk/view?usp=sharing)
+<br/>
 
-- 📝 I monthly write articles on [https://medium.com/p/225542503a5d](https://medium.com/p/225542503a5d)
+### Tech Stack
 
-- 💬 Ask me about **Machine Learning & DL (Basics)**
-
-- 📫 How to reach me [Mail](sau29gupta@gmail.com)
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RW6xZo3IqGd9-eZgZ6EMolF3oG8pdCEk/view?usp=sharing](https://drive.google.com/file/d/1RW6xZo3IqGd9-eZgZ6EMolF3oG8pdCEk/view?usp=sharing)
-
-- ⚡ Fun fact **THINK THINK THINK**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/py3_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="py3_coder" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/py3-coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="py3-coder" height="30" width="40" /></a>
-<a href="https://kaggle.com/codersaurabh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="codersaurabh" height="30" width="40" /></a>
-<a href="https://instagram.com/saurabh_gupta.29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saurabh_gupta.29" height="30" width="40" /></a>
-<a href="https://medium.com/@sau29gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sau29gupta" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/runtimerror29" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="runtimerror29" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sau29gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sau29gupta" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/py3-coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="py3-coder" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/<sau29gupta>/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<sau29gupta>/profile" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=java,go,python,c,spring,mysql,postgres,mongodb,redis,aws,docker,git,linux,gcp&theme=dark" alt="Tech stack icons" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.wxwidgets.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/> </a> </p>
+<br/>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=py3-coder&theme=github-dark&hide_border=true&background=0D1117&ring=62F7F3&fire=62F7F3&currStreakLabel=62F7F3" alt="GitHub Streak" />
+</p>
+
+### Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+</p>
+
+<br/>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=py3-coder&style=flat&color=62F7F3&label=Profile+Views" alt="Profile views" />
+&nbsp;•&nbsp;
+<img src="https://img.shields.io/github/followers/py3-coder?label=Followers&style=social" alt="Followers" />
+&nbsp;•&nbsp;
+<img src="https://img.shields.io/github/stars/py3-coder?label=Stars&style=social" alt="Stars" />
+
+</div>
